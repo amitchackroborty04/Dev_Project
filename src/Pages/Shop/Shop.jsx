@@ -4,6 +4,7 @@ const Shop = () => {
   return (
     <div>
       <h2>hi ima idjkajf</h2>
+      <h2>hi ima </h2>
     </div>
   );
 };
