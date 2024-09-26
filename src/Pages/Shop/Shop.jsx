@@ -3,7 +3,7 @@ import React from "react";
 const Shop = () => {
   return (
     <div>
-      <h2>AMit Dev_branch Create</h2>
+      <h2>hi ima idjkajf</h2>
     </div>
   );
 };
